@@ -1,0 +1,4 @@
+<map id="L4virtio::Svr::Dev_config::status" name="L4virtio::Svr::Dev_config::status">
+<area shape="rect" id="node2" href="$classL4virtio_1_1Svr_1_1Device__t.html#a3fa20bf911056f0d03c8274982b1e167" title="Get the memory region list used for this device. " alt="" coords="180,5,359,47"/>
+<area shape="rect" id="node3" href="$classL4virtio_1_1Svr_1_1Dev__config.html#a01556f856334cea1ab98ef40559a5ead" title="Set device status register. " alt="" coords="200,71,339,112"/>
+</map>
